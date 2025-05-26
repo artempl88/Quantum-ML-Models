@@ -557,8 +557,4 @@ copies of the Software.
 
 **🚀 Welcome to the Quantum AI Revolution! 🚀**
 
-*Built with ❤️ by the Quantum ML Models team*
-
-[**⭐ Star us on GitHub**](https://github.com/yourusername/quantum-ml-models) • [**🚀 Try the Demo**](https://demo.quantum-ml-models.com) • [**📖 Read the Docs**](https://docs.quantum-ml-models.com)
-
-</div>
+*Built with ❤️ by the NOT Punks team*
