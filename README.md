@@ -499,20 +499,6 @@ mypy quantum_models/
 
 ---
 
-## 📞 **Support & Community**
-
-### **Get Help**
-- 💬 **[Discord Community](https://discord.gg/quantum-ml-models)**
-- 💼 **[Professional Support](mailto:support@quantum-ml-models.com)**
-- 📖 **[Documentation](https://docs.quantum-ml-models.com)**
-- 🐛 **[Issue Tracker](https://github.com/yourusername/quantum-ml-models/issues)**
-
-### **Stay Updated**
-- 📧 **[Newsletter](https://quantum-ml-models.com/newsletter)**
-- 🐦 **[Twitter](https://twitter.com/QuantumMLModels)**
-- 📺 **[YouTube Channel](https://youtube.com/QuantumMLModels)**
-- 📱 **[LinkedIn](https://linkedin.com/company/quantum-ml-models)**
-
 ### **Enterprise Solutions**
 - 🏢 **Custom quantum model development**
 - 🔧 **On-premise deployment**
