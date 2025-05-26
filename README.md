@@ -547,12 +547,6 @@ copies of the Software.
 
 ---
 
-## 🌟 **Star History**
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/quantum-ml-models&type=Date)](https://star-history.com/#yourusername/quantum-ml-models&Date)
-
----
-
 <div align="center">
 
 **🚀 Welcome to the Quantum AI Revolution! 🚀**
