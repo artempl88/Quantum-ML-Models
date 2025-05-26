@@ -1,7 +1,7 @@
 # Quantum Machine Learning Models Repository
 ## Revolutionary AI with Quantum Computing
 
-[![Quantum ML Models](assets/logo.png)](https://github.com/artempl88/Quantum-ML-Models)
+[![Quantum ML Models](logo.png)]
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
